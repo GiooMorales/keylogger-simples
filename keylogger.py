@@ -22,7 +22,3 @@ keyboard.on_press(salvar)
 
 print("📌 Capturando palavras... (aperte ESC para sair)")
 keyboard.wait("esc")
-
-
-
-sergio 
